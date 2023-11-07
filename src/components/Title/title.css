@@ -1,0 +1,76 @@
+.red-wite{
+    background-color:rgb(255, 50, 50);
+    color:rgb(255, 255, 255);
+    padding-top:70px;
+    padding-bottom: 70px;
+    font-size: 60px;
+    margin-top: 2px;
+}
+.red-black{
+    background-color:rgb(155, 0, 0);
+    color:rgb(255, 255, 255);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 22px;
+}
+.blue-wite{
+    background-color:rgb(50, 50, 255);
+    color:rgb(255, 255, 255);
+    padding-top:70px;
+    padding-bottom: 70px;
+    font-size: 60px;
+    margin-top: 2px;
+}
+.blue-black{
+    background-color:rgb(0, 0, 155);
+    color:rgb(255, 255, 255);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 22px;
+}
+.green-wite{
+    background-color:rgb(50, 235, 50);
+    color:rgb(255, 255, 255);
+    padding-top:70px;
+    padding-bottom: 70px;
+    font-size: 60px;
+    margin-top: 2px;
+}
+.green-black{
+    background-color:rgb(0, 175, 0);
+    color:rgb(255, 255, 255);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 22px;
+}
+.black-wite{
+    background-color:rgb(66, 66, 66);
+    color:rgb(255, 255, 255);
+    padding-top:70px;
+    padding-bottom: 70px;
+    font-size: 60px;
+    margin-top: 2px;
+}
+.black-black{
+    background-color:rgb(22, 22, 22);
+    color:rgb(255, 255, 255);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 22px;
+}
+.litlAll{
+    width: 24.5%;
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+.div3{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.div4{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color:rgb(230, 230, 230);
+}
